@@ -45,8 +45,9 @@ This is my very first project, designed to practice **Java basics**, **user inpu
 ##🖥️ Example Run
 
 
-<img width="728" height="763" alt="image" src="https://github.com/user-attachments/assets/9f8a2e26-0097-4b0a-a5fe-6e1b30b27e31" />
-<img width="444" height="761" alt="image" src="https://github.com/user-attachments/assets/38277c84-d5d3-4b76-bf28-d28e80991532" />
+<img width="724" height="750" alt="image" src="https://github.com/user-attachments/assets/654324f4-1bd1-4cf4-8f85-e8a9888d56af" />
+<img width="436" height="748" alt="image" src="https://github.com/user-attachments/assets/5f3f4fc6-1d3a-4443-965f-7ca5593ba87c" />
+
 
 
 
