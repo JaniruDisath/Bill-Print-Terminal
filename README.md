@@ -31,7 +31,7 @@ This is my very first project, designed to practice **Java basics**, **user inpu
 
 2.Navigate into the project folder
 
-    cd terminal-billing-system
+      cd terminal-billing-system
 
 3. Compile the program:
 
