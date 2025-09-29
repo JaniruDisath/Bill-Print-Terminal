@@ -34,8 +34,8 @@ This is my very first project, designed to practice **Java basics**, **user inpu
     cd terminal-billing-system
 
 3. Compile the program:
-   
-   javac src/edu/janiru/Main.java
+
+        javac src/edu/janiru/Main.java
 
 4.Run the program:
 
