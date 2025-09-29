@@ -24,11 +24,12 @@ This is my very first project, designed to practice **Java basics**, **user inpu
 ---
 
 ## 📦 Installation & Usage
-1. Clone the repository:
+1. Clone the repository
+   
    ```bash
    git clone https://github.com/JaniruDisath/Bill-Print-Terminal
 
-2.Navigate into the project folder:
+2.Navigate into the project folder
 
     cd terminal-billing-system
 
