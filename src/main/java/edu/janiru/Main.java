@@ -10,8 +10,8 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         System.out.println("=========================================================================================  ");
-        System.out.print("  __          __  _");	System.out.print("	  	");	System.out.print("	       ");		System.out.print(" _          ");	System.out.println("  _   __  __            _");
-        System.out.print("  \\ \\        / / | |");	System.out.print("	  	");	System.out.print("	       ");		System.out.print("| |         ");	System.out.println(" (_) |  \\/  |          | |");
+        System.out.print("  __          __  _");	System.out.print("	  	");	System.out.print("	                   ");		System.out.print(" _          ");	System.out.println("  _   __  __            _");
+        System.out.print("  \\ \\        / / | |");	System.out.print("	  	");	System.out.print("	               ");		System.out.print("| |         ");	System.out.println(" (_) |  \\/  |          | |");
         System.out.print("   \\ \\  /\\  / /__| |");	System.out.print(" ___ ___ ");		System.out.print(" _ __ ___   ___   ");		System.out.print("| |_ ___    ");	System.out.println("  _  | \\  / | __ _ _ __| |_");
         System.out.print("    \\ \\/  \\/ / _ \\ |");	System.out.print("/ __/ _ \\");		System.out.print("| '_ ` _ \\ / _ \\  ");	System.out.print("| __/   \\   ");	System.out.println(" | | | |\\/| |/ _` | '__| __|   ");
         System.out.print("     \\  /\\  /  __/ |");	System.out.print(" (_| (_) ");		System.out.print("| | | | | |  __/  "); 	System.out.print("| || (_) |  ");	System.out.println(" | | | |  | | (_| | |  | |_");
